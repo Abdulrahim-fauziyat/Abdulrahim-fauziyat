@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Abdulrahim-fauziyat
-- 👀 I’m interested in .Full Stack Web-development..
-- 🌱 I’m currently learning Software development...
-- 💞️ I’m looking to collaborate on ...
+👋 Hi, I’m @Abdulrahim-fauziyat
+ .Full Stack Web-developer, web app,web site,web design 
+
 - 📫 How to reach me .my email omoteabdulrahimfauziyat@gmail.com..
 
 <!---
